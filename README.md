@@ -22,8 +22,8 @@ Before running this project, make sure you have installed:
 1. **Clone this repository:**
 
     ```plaintext
-    git clone https://github.com/wrightL-dev/URA
-    cd URA
+    git clone https://github.com/wrightL-dev/COREX
+    cd COREX
 
 2. **Install the required packages:**
 
